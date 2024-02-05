@@ -1,0 +1,12 @@
+init
+config
+add
+reset
+commit
+set
+replace
+remove
+status
+branch
+log
+checkout
