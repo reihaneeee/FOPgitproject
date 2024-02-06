@@ -4,7 +4,6 @@
 #include <sys/stat.h>
 #include <unistd.h>
 #include <dirent.h>
-char test_push[100];
 
 char cwd[256];
 char root[256];
